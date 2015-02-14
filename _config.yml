@@ -1,0 +1,32 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Digital Smyth
+tagline:          'A canonically citable edition of "Greek Grammar for Colleges"'
+description:      'A digital edition of the "Greek Grammar for Colleges" by Herbert Weir Smyth (1920), derived from the Perseus project XML edition'
+
+baseurl: /smyth/
+
+
+author:
+  name:           'Neel Smith'
+ 
+
+paginate:         5
+
+
+version:          0.12.0
+
+links:
+  - title: Neel Smith on github
+    url: http://neelsmith.github.io/
+    external: true
+  - title: Github source repository
+    url: https://github.com/neelsmith/smyth
+    external: true
+   
