@@ -1,0 +1,1 @@
+Place lists of paradigm vocabulary in this directory.
