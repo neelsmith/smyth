@@ -22,7 +22,7 @@ verbinfl.w_pres_ptcp15m#w_regular#ontes#masc#voc#pl#pres#act
 
 verbinfl.w_pres_ptcp1f#w_regular#ousa^#fem#nom#sg#pres#act
 verbinfl.w_pres_ptcp2f#w_regular#oushs#fem#gen#sg#pres#act
-verbinfl.w_pres_ptcp3f#w_regular#oush|#fem#dat#sg#pres#act
+verbinfl.w_pres_ptcp3f#w_regular#oush<isub>#fem#dat#sg#pres#act
 verbinfl.w_pres_ptcp4f#w_regular#ousa^n#fem#acc#sg#pres#act
 verbinfl.w_pres_ptcp5f#w_regular#ousa^#fem#voc#sg#pres#act
 
@@ -63,7 +63,7 @@ verbinfl.w_pres_ptcp15n#w_regular#onta#neut#voc#pl#pres#act
 
 verbinfl.w_presptcp_mp1m#w_regular#omenos#masc#nom#sg#pres#mid
 verbinfl.w_presptcp_mp2m#w_regular#omenou#masc#gen#sg#pres#mid
-verbinfl.w_presptcp_mp3m#w_regular#omenw|#masc#dat#sg#pres#mid
+verbinfl.w_presptcp_mp3m#w_regular#omenw<isub>#masc#dat#sg#pres#mid
 verbinfl.w_presptcp_mp4m#w_regular#omenon#masc#acc#sg#pres#mid
 verbinfl.w_presptcp_mp5m#w_regular#omene#masc#voc#sg#pres#mid
 
@@ -85,7 +85,7 @@ verbinfl.w_presptcp_mp15m#w_regular#omenoi#masc#voc#pl#pres#mid
 
 verbinfl.w_presptcp_mp1m#w_regular#omenh#fem#nom#sg#pres#mid
 verbinfl.w_presptcp_mp2m#w_regular#omenhs#fem#gen#sg#pres#mid
-verbinfl.w_presptcp_mp3m#w_regular#omenh|#fem#dat#sg#pres#mid
+verbinfl.w_presptcp_mp3m#w_regular#omenh<isub>#fem#dat#sg#pres#mid
 verbinfl.w_presptcp_mp4m#w_regular#omenhn#fem#acc#sg#pres#mid
 verbinfl.w_presptcp_mp5m#w_regular#omenh#fem#voc#sg#pres#mid
 
@@ -106,7 +106,7 @@ verbinfl.w_presptcp_mp15m#w_regular#omenai#fem#voc#pl#pres#mid
 
 verbinfl.w_presptcp_mp1n#w_regular#omenon#neut#nom#sg#pres#mid
 verbinfl.w_presptcp_mp2n#w_regular#omenou#neut#gen#sg#pres#mid
-verbinfl.w_presptcp_mp3n#w_regular#omenw|#neut#dat#sg#pres#mid
+verbinfl.w_presptcp_mp3n#w_regular#omenw<isub>#neut#dat#sg#pres#mid
 verbinfl.w_presptcp_mp4n#w_regular#omenon#neut#acc#sg#pres#mid
 verbinfl.w_presptcp_mp5n#w_regular#omenon#neut#voc#sg#pres#mid
 
@@ -132,7 +132,7 @@ verbinfl.w_presptcp_mp15n#w_regular#omena#neut#voc#pl#pres#mid
 
 verbinfl.w_presptcp_mp1m#w_regular#omenos#masc#nom#sg#pres#pass
 verbinfl.w_presptcp_mp2m#w_regular#omenou#masc#gen#sg#pres#pass
-verbinfl.w_presptcp_mp3m#w_regular#omenw|#masc#dat#sg#pres#pass
+verbinfl.w_presptcp_mp3m#w_regular#omenw<isub>#masc#dat#sg#pres#pass
 verbinfl.w_presptcp_mp4m#w_regular#omenon#masc#acc#sg#pres#pass
 verbinfl.w_presptcp_mp5m#w_regular#omene#masc#voc#sg#pres#pass
 
@@ -154,7 +154,7 @@ verbinfl.w_presptcp_mp15m#w_regular#omenoi#masc#voc#pl#pres#pass
 
 verbinfl.w_presptcp_mp1m#w_regular#omenh#fem#nom#sg#pres#pass
 verbinfl.w_presptcp_mp2m#w_regular#omenhs#fem#gen#sg#pres#pass
-verbinfl.w_presptcp_mp3m#w_regular#omenh|#fem#dat#sg#pres#pass
+verbinfl.w_presptcp_mp3m#w_regular#omenh<isub>#fem#dat#sg#pres#pass
 verbinfl.w_presptcp_mp4m#w_regular#omenhn#fem#acc#sg#pres#pass
 verbinfl.w_presptcp_mp5m#w_regular#omenh#fem#voc#sg#pres#pass
 
@@ -175,7 +175,7 @@ verbinfl.w_presptcp_mp15m#w_regular#omenai#fem#voc#pl#pres#pass
 
 verbinfl.w_presptcp_mp1n#w_regular#omenon#neut#nom#sg#pres#pass
 verbinfl.w_presptcp_mp2n#w_regular#omenou#neut#gen#sg#pres#pass
-verbinfl.w_presptcp_mp3n#w_regular#omenw|#neut#dat#sg#pres#pass
+verbinfl.w_presptcp_mp3n#w_regular#omenw<isub>#neut#dat#sg#pres#pass
 verbinfl.w_presptcp_mp4n#w_regular#omenon#neut#acc#sg#pres#pass
 verbinfl.w_presptcp_mp5n#w_regular#omenon#neut#voc#sg#pres#pass
 

@@ -1,7 +1,7 @@
 RuleUrn#InflectionClass#Ending#Gender#Case#Number#VAdj
 verbinfl.w_pp6_teos_1#vadj#te/os#masc#nom#sg#vadj1
 verbinfl.w_pp6_teos_2#vadj#te/ou#masc#gen#sg#vadj1
-verbinfl.w_pp6_teos_3#vadj#te/w|#masc#dat#sg#vadj1
+verbinfl.w_pp6_teos_3#vadj#te/w<isub>#masc#dat#sg#vadj1
 verbinfl.w_pp6_teos_4#vadj#te/on#masc#acc#sg#vadj1
 verbinfl.w_pp6_teos_5#vadj#te/e#masc#voc#sg#vadj1
 
@@ -20,7 +20,7 @@ verbinfl.w_pp6_teos_15#vadj#te/oi#masc#voc#pl#vadj1
 
 verbinfl.w_pp6_teos_16#vadj#te/on#neut#nom#sg#vadj1
 verbinfl.w_pp6_teos_17#vadj#te/ou#neut#gen#sg#vadj1
-verbinfl.w_pp6_teos_18#vadj#te/w|#neut#dat#sg#vadj1
+verbinfl.w_pp6_teos_18#vadj#te/w<isub>#neut#dat#sg#vadj1
 verbinfl.w_pp6_teos_19#vadj#te/on#neut#acc#sg#vadj1
 verbinfl.w_pp6_teos_20#vadj#te/on#neut#voc#sg#vadj1
 
@@ -39,7 +39,7 @@ verbinfl.w_pp6_teos_30#vadj#te/a#neut#voc#pl#vadj1
 
 verbinfl.w_pp6_teos_31#vadj#te/a#fem#nom#sg#vadj1
 verbinfl.w_pp6_teos_32#vadj#te/as#fem#gen#sg#vadj1
-verbinfl.w_pp6_teos_33#vadj#te/a|#fem#dat#sg#vadj1
+verbinfl.w_pp6_teos_33#vadj#te/a<isub>#fem#dat#sg#vadj1
 verbinfl.w_pp6_teos_34#vadj#te/an#fem#acc#sg#vadj1
 verbinfl.w_pp6_teos_35#vadj#te/a#fem#voc#sg#vadj1
 

@@ -1,7 +1,7 @@
 RuleUrn#InflectionClasses#Ending#Person#Number#Tense#Mood#Voice
 verbinfl.aw_aor_subj1#aw_contract#w#1st#sg#aor#subj#act
-verbinfl.aw_aor_subj2#aw_contract#h|s#2nd#sg#aor#subj#act
-verbinfl.aw_aor_subj3#aw_contract#h|#3rd#sg#aor#subj#act
+verbinfl.aw_aor_subj2#aw_contract#h<isub>s#2nd#sg#aor#subj#act
+verbinfl.aw_aor_subj3#aw_contract#h<isub>#3rd#sg#aor#subj#act
 
 verbinfl.aw_aor_subj4#aw_contract#hton#2nd#dual#aor#subj#act
 verbinfl.aw_aor_subj5#aw_contract#hton#3rd#dual#aor#subj#act
@@ -12,7 +12,7 @@ verbinfl.aw_aor_subj8#aw_contract#wsi#3rd#pl#aor#subj#act
 verbinfl.aw_aor_subj8n#aw_contract#wsin#3rd#pl#aor#subj#act
 
 verbinfl.aw_aor_subj9#aw_contract#wmai#1st#sg#aor#subj#mid
-verbinfl.aw_aor_subj10#aw_contract#h|#2nd#sg#aor#subj#mid
+verbinfl.aw_aor_subj10#aw_contract#h<isub>#2nd#sg#aor#subj#mid
 verbinfl.aw_aor_subj11#aw_contract#htai#3rd#sg#aor#subj#mid
 
 verbinfl.aw_aor_subj12#aw_contract#hsqon#2nd#dual#aor#subj#mid
@@ -24,8 +24,8 @@ verbinfl.aw_aor_subj16#aw_contract#wntai#3rd#pl#aor#subj#mid
 
 
 verbinfl.aw_aor_subj17#aw_contract#w<circ>#1st#sg#aor#subj#pass
-verbinfl.aw_aor_subj18#aw_contract#h<circ>|s#2nd#sg#aor#subj#pass
-verbinfl.aw_aor_subj19#aw_contract#h<circ>|#3rd#sg#aor#subj#pass
+verbinfl.aw_aor_subj18#aw_contract#h<circ><isub>s#2nd#sg#aor#subj#pass
+verbinfl.aw_aor_subj19#aw_contract#h<circ><isub>#3rd#sg#aor#subj#pass
 
 verbinfl.aw_aor_subj20#aw_contract#h<circ>ton#2nd#dual#aor#subj#pass
 verbinfl.aw_aor_subj21#aw_contract#h<circ>ton#3rd#dual#aor#subj#pass

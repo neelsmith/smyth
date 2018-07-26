@@ -22,7 +22,7 @@ verbinfl.aor2__ptcp15m#aor2#o/ntes#masc#voc#pl#aor#act
 
 verbinfl.aor2__ptcp1f#aor2#ou<circ>sa#fem#nom#sg#aor#act
 verbinfl.aor2__ptcp2f#aor2#ou/shs#fem#gen#sg#aor#act
-verbinfl.aor2__ptcp3f#aor2#ou/sh|#fem#dat#sg#aor#act
+verbinfl.aor2__ptcp3f#aor2#ou/sh<isub>#fem#dat#sg#aor#act
 verbinfl.aor2__ptcp4f#aor2#ou<circ>san#fem#acc#sg#aor#act
 verbinfl.aor2__ptcp5f#aor2#ou<circ>sa#fem#voc#sg#aor#act
 

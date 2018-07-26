@@ -1,7 +1,7 @@
 RuleUrn#InflectionClass#Ending#Gender#Case#Number#Tense#Voice
 verbinfl.w_pp5_pftptcp_mp1m#w_pp5#me/nos#masc#nom#sg#pft#mid
 verbinfl.w_pp5_pftptcp_mp2m#w_pp5#me/nou#masc#gen#sg#pft#mid
-verbinfl.w_pp5_pftptcp_mp3m#w_pp5#me/nw|#masc#dat#sg#pft#mid
+verbinfl.w_pp5_pftptcp_mp3m#w_pp5#me/nw<isub>#masc#dat#sg#pft#mid
 verbinfl.w_pp5_pftptcp_mp4m#w_pp5#me/non#masc#acc#sg#pft#mid
 verbinfl.w_pp5_pftptcp_mp5m#w_pp5#me/ne#masc#voc#sg#pft#mid
 
@@ -23,7 +23,7 @@ verbinfl.w_pp5_pftptcp_mp15m#w_pp5#me/noi#masc#voc#pl#pft#mid
 
 verbinfl.w_pp5_pftptcp_mp1m#w_pp5#me/nh#fem#nom#sg#pft#mid
 verbinfl.w_pp5_pftptcp_mp2m#w_pp5#me/nhs#fem#gen#sg#pft#mid
-verbinfl.w_pp5_pftptcp_mp3m#w_pp5#me/nh|#fem#dat#sg#pft#mid
+verbinfl.w_pp5_pftptcp_mp3m#w_pp5#me/nh<isub>#fem#dat#sg#pft#mid
 verbinfl.w_pp5_pftptcp_mp4m#w_pp5#me/nhn#fem#acc#sg#pft#mid
 verbinfl.w_pp5_pftptcp_mp5m#w_pp5#me/nh#fem#voc#sg#pft#mid
 
@@ -44,7 +44,7 @@ verbinfl.w_pp5_pftptcp_mp15m#w_pp5#me/nai#fem#voc#pl#pft#mid
 
 verbinfl.w_pp5_pftptcp_mp1n#w_pp5#me/non#neut#nom#sg#pft#mid
 verbinfl.w_pp5_pftptcp_mp2n#w_pp5#me/nou#neut#gen#sg#pft#mid
-verbinfl.w_pp5_pftptcp_mp3n#w_pp5#me/nw|#neut#dat#sg#pft#mid
+verbinfl.w_pp5_pftptcp_mp3n#w_pp5#me/nw<isub>#neut#dat#sg#pft#mid
 verbinfl.w_pp5_pftptcp_mp4n#w_pp5#me/non#neut#acc#sg#pft#mid
 verbinfl.w_pp5_pftptcp_mp5n#w_pp5#me/non#neut#voc#sg#pft#mid
 
@@ -64,7 +64,7 @@ verbinfl.w_pp5_pftptcp_mp15n#w_pp5#me/na#neut#voc#pl#pft#mid
 
 verbinfl.w_pp5_pftptcp_mp1m#w_pp5#me/nos#masc#nom#sg#pft#pass
 verbinfl.w_pp5_pftptcp_mp2m#w_pp5#me/nou#masc#gen#sg#pft#pass
-verbinfl.w_pp5_pftptcp_mp3m#w_pp5#me/nw|#masc#dat#sg#pft#pass
+verbinfl.w_pp5_pftptcp_mp3m#w_pp5#me/nw<isub>#masc#dat#sg#pft#pass
 verbinfl.w_pp5_pftptcp_mp4m#w_pp5#me/non#masc#acc#sg#pft#pass
 verbinfl.w_pp5_pftptcp_mp5m#w_pp5#me/ne#masc#voc#sg#pft#pass
 
@@ -86,7 +86,7 @@ verbinfl.w_pp5_pftptcp_mp15m#w_pp5#me/noi#masc#voc#pl#pft#pass
 
 verbinfl.w_pp5_pftptcp_mp1m#w_pp5#me/nh#fem#nom#sg#pft#pass
 verbinfl.w_pp5_pftptcp_mp2m#w_pp5#me/nhs#fem#gen#sg#pft#pass
-verbinfl.w_pp5_pftptcp_mp3m#w_pp5#me/nh|#fem#dat#sg#pft#pass
+verbinfl.w_pp5_pftptcp_mp3m#w_pp5#me/nh<isub>#fem#dat#sg#pft#pass
 verbinfl.w_pp5_pftptcp_mp4m#w_pp5#me/nhn#fem#acc#sg#pft#pass
 verbinfl.w_pp5_pftptcp_mp5m#w_pp5#me/nh#fem#voc#sg#pft#pass
 
@@ -107,7 +107,7 @@ verbinfl.w_pp5_pftptcp_mp15m#w_pp5#me/nai#fem#voc#pl#pft#pass
 
 verbinfl.w_pp5_pftptcp_mp1n#w_pp5#me/non#neut#nom#sg#pft#pass
 verbinfl.w_pp5_pftptcp_mp2n#w_pp5#me/nou#neut#gen#sg#pft#pass
-verbinfl.w_pp5_pftptcp_mp3n#w_pp5#me/nw|#neut#dat#sg#pft#pass
+verbinfl.w_pp5_pftptcp_mp3n#w_pp5#me/nw<isub>#neut#dat#sg#pft#pass
 verbinfl.w_pp5_pftptcp_mp4n#w_pp5#me/non#neut#acc#sg#pft#pass
 verbinfl.w_pp5_pftptcp_mp5n#w_pp5#me/non#neut#voc#sg#pft#pass
 

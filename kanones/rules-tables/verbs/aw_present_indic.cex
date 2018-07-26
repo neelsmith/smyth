@@ -1,7 +1,7 @@
 RuleUrn#InflectionClasses#Ending#Person#Number#Tense#Mood#Voice
 verbinfl.aw_pres_indic1#aw_contract#w<circ>#1st#sg#pres#indic#act
-verbinfl.aw_pres_indic2#aw_contract#a<circ>|s#2nd#sg#pres#indic#act
-verbinfl.aw_pres_indic3#aw_contract#a<circ>|#3rd#sg#pres#indic#act
+verbinfl.aw_pres_indic2#aw_contract#a<circ><isub>s#2nd#sg#pres#indic#act
+verbinfl.aw_pres_indic3#aw_contract#a<circ><isub>#3rd#sg#pres#indic#act
 verbinfl.aw_pres_indic4#aw_contract#a<circ>ton#2nd#dual#pres#indic#act
 verbinfl.aw_pres_indic5#aw_contract#a<circ>ton#3rd#dual#pres#indic#act
 verbinfl.aw_pres_indic6#aw_contract#w<circ>men#1st#pl#pres#indic#act
@@ -10,7 +10,7 @@ verbinfl.aw_pres_indic8#aw_contract#w<circ>si#3rd#pl#pres#indic#act
 verbinfl.aw_pres_indic8n#aw_contract#w<circ>sin#3rd#pl#pres#indic#act
 
 verbinfl.aw_pres_indic9#aw_contract#w<circ>mai#1st#sg#pres#indic#mid
-verbinfl.aw_pres_indic10#aw_contract#a<circ>|#2nd#sg#pres#indic#mid
+verbinfl.aw_pres_indic10#aw_contract#a<circ><isub>#2nd#sg#pres#indic#mid
 verbinfl.aw_pres_indic11#aw_contract#a<circ>tai#3rd#sg#pres#indic#mid
 verbinfl.aw_pres_indic12#aw_contract#a<circ>sqon#2nd#dual#pres#indic#mid
 verbinfl.aw_pres_indic13#aw_contract#a<circ>sqon#3rd#dual#pres#indic#mid
@@ -19,8 +19,8 @@ verbinfl.aw_pres_indic15#aw_contract#a<circ>sqe#2nd#pl#pres#indic#mid
 verbinfl.aw_pres_indic16#aw_contract#w<circ>ntai#3rd#pl#pres#indic#mid
 
 verbinfl.aw_pres_indic17#aw_contract#w<circ>mai#1st#sg#pres#indic#pass
-verbinfl.aw_pres_indic18#aw_contract#a<circ>|#2nd#sg#pres#indic#pass
-verbinfl.aw_pres_indic18h#aw_contract#a<circ>|#2nd#sg#pres#indic#pass
+verbinfl.aw_pres_indic18#aw_contract#a<circ><isub>#2nd#sg#pres#indic#pass
+verbinfl.aw_pres_indic18h#aw_contract#a<circ><isub>#2nd#sg#pres#indic#pass
 verbinfl.aw_pres_indic19#aw_contract#a<circ>tai#3rd#sg#pres#indic#pass
 verbinfl.aw_pres_indic20#aw_contract#a<circ>sqon#2nd#dual#pres#indic#pass
 verbinfl.aw_pres_indic21#aw_contract#a<circ>sqon#3rd#dual#pres#indic#pass

@@ -1,7 +1,7 @@
 RuleUrn#InflectionClass#Ending#Gender#Case#Number#Tense#Voice
 verbinfl.m_pp5_midm#m_pp5#me/nos#masc#nom#sg#pft#mid
 verbinfl.m_pp5_mid2m#m_pp5#me/nou#masc#gen#sg#pft#mid
-verbinfl.m_pp5_mid3m#m_pp5#me/nw|#masc#dat#sg#pft#mid
+verbinfl.m_pp5_mid3m#m_pp5#me/nw<isub>#masc#dat#sg#pft#mid
 verbinfl.m_pp5_mid4m#m_pp5#me/non#masc#acc#sg#pft#mid
 verbinfl.m_pp5_mid5m#m_pp5#me/ne#masc#voc#sg#pft#mid
 
@@ -19,7 +19,7 @@ verbinfl.m_pp5_mid5m#m_pp5#me/noi#masc#voc#pl#pft#mid
 
 verbinfl.m_pp5_midn#m_pp5#me/non#neut#nom#sg#pft#mid
 verbinfl.m_pp5_mid2n#m_pp5#me/nou#neut#gen#sg#pft#mid
-verbinfl.m_pp5_mid3n#m_pp5#me/nw|#neut#dat#sg#pft#mid
+verbinfl.m_pp5_mid3n#m_pp5#me/nw<isub>#neut#dat#sg#pft#mid
 verbinfl.m_pp5_mid4n#m_pp5#me/non#neut#acc#sg#pft#mid
 verbinfl.m_pp5_mid5n#m_pp5#me/non#neut#voc#sg#pft#mid
 
@@ -38,7 +38,7 @@ verbinfl.m_pp5_mid5n#m_pp5#me/na#neut#voc#pl#pft#mid
 
 verbinfl.m_pp5_midf#m_pp5#me/nh#fem#nom#sg#pft#mid
 verbinfl.m_pp5_mid2f#m_pp5#me/nhs#fem#gen#sg#pft#mid
-verbinfl.m_pp5_mid3f#m_pp5#me/na|#fem#dat#sg#pft#mid
+verbinfl.m_pp5_mid3f#m_pp5#me/na<isub>#fem#dat#sg#pft#mid
 verbinfl.m_pp5_mid4f#m_pp5#me/nan#fem#acc#sg#pft#mid
 verbinfl.m_pp5_mid5f#m_pp5#me/nh#fem#voc#sg#pft#mid
 

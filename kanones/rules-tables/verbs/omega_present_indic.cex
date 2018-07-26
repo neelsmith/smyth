@@ -13,7 +13,7 @@ verbinfl.w_pres_indic8n#w_regular#ousin#3rd#pl#pres#indic#act
 
 verbinfl.w_pres_indic9#w_regular#omai#1st#sg#pres#indic#mid
 verbinfl.w_pres_indic10#w_regular#ei#2nd#sg#pres#indic#mid
-verbinfl.w_pres_indic10h#w_regular#h|#2nd#sg#pres#indic#mid
+verbinfl.w_pres_indic10h#w_regular#h<isub>#2nd#sg#pres#indic#mid
 verbinfl.w_pres_indic11#w_regular#etai#3rd#sg#pres#indic#mid
 
 verbinfl.w_pres_indic12#w_regular#esqon#2nd#dual#pres#indic#mid
@@ -25,7 +25,7 @@ verbinfl.w_pres_indic16#w_regular#ontai#3rd#pl#pres#indic#mid
 
 verbinfl.w_pres_indic17#w_regular#omai#1st#sg#pres#indic#pass
 verbinfl.w_pres_indic18#w_regular#ei#2nd#sg#pres#indic#pass
-verbinfl.w_pres_indic18h#w_regular#h|#2nd#sg#pres#indic#pass
+verbinfl.w_pres_indic18h#w_regular#h<isub>#2nd#sg#pres#indic#pass
 verbinfl.w_pres_indic19#w_regular#etai#3rd#sg#pres#indic#pass
 
 verbinfl.w_pres_indic20#w_regular#esqon#2nd#dual#pres#indic#pass

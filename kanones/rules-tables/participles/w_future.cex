@@ -22,7 +22,7 @@ verbinfl.w_fut_ptcp15m#w_regular#ontes#masc#voc#pl#fut#act
 
 verbinfl.w_fut_ptcp1f#w_regular#ousa^#fem#nom#sg#fut#act
 verbinfl.w_fut_ptcp2f#w_regular#oushs#fem#gen#sg#fut#act
-verbinfl.w_fut_ptcp3f#w_regular#oush|#fem#dat#sg#fut#act
+verbinfl.w_fut_ptcp3f#w_regular#oush<isub>#fem#dat#sg#fut#act
 verbinfl.w_fut_ptcp4f#w_regular#ousa^n#fem#acc#sg#fut#act
 verbinfl.w_fut_ptcp5f#w_regular#ousa^#fem#voc#sg#fut#act
 
@@ -63,7 +63,7 @@ verbinfl.w_fut_ptcp15n#w_regular#onta#neut#voc#pl#fut#act
 
 verbinfl.w_futptcp_mp1m#w_regular#omenos#masc#nom#sg#fut#mid
 verbinfl.w_futptcp_mp2m#w_regular#omenou#masc#gen#sg#fut#mid
-verbinfl.w_futptcp_mp3m#w_regular#omenw|#masc#dat#sg#fut#mid
+verbinfl.w_futptcp_mp3m#w_regular#omenw<isub>#masc#dat#sg#fut#mid
 verbinfl.w_futptcp_mp4m#w_regular#omenon#masc#acc#sg#fut#mid
 verbinfl.w_futptcp_mp5m#w_regular#omene#masc#voc#sg#fut#mid
 
@@ -85,7 +85,7 @@ verbinfl.w_futptcp_mp15m#w_regular#omenoi#masc#voc#pl#fut#mid
 
 verbinfl.w_futptcp_mp1m#w_regular#omenh#fem#nom#sg#fut#mid
 verbinfl.w_futptcp_mp2m#w_regular#omenhs#fem#gen#sg#fut#mid
-verbinfl.w_futptcp_mp3m#w_regular#omenh|#fem#dat#sg#fut#mid
+verbinfl.w_futptcp_mp3m#w_regular#omenh<isub>#fem#dat#sg#fut#mid
 verbinfl.w_futptcp_mp4m#w_regular#omenhn#fem#acc#sg#fut#mid
 verbinfl.w_futptcp_mp5m#w_regular#omenh#fem#voc#sg#fut#mid
 
@@ -106,7 +106,7 @@ verbinfl.w_futptcp_mp15m#w_regular#omenai#fem#voc#pl#fut#mid
 
 verbinfl.w_futptcp_mp1n#w_regular#omenon#neut#nom#sg#fut#mid
 verbinfl.w_futptcp_mp2n#w_regular#omenou#neut#gen#sg#fut#mid
-verbinfl.w_futptcp_mp3n#w_regular#omenw|#neut#dat#sg#fut#mid
+verbinfl.w_futptcp_mp3n#w_regular#omenw<isub>#neut#dat#sg#fut#mid
 verbinfl.w_futptcp_mp4n#w_regular#omenon#neut#acc#sg#fut#mid
 verbinfl.w_futptcp_mp5n#w_regular#omenon#neut#voc#sg#fut#mid
 
@@ -132,7 +132,7 @@ verbinfl.w_futptcp_mp15n#w_regular#omena#neut#voc#pl#fut#mid
 
 verbinfl.w_futptcp_mp1m#w_regular#hsomenos#masc#nom#sg#fut#pass
 verbinfl.w_futptcp_mp2m#w_regular#hsomenou#masc#gen#sg#fut#pass
-verbinfl.w_futptcp_mp3m#w_regular#hsomenw|#masc#dat#sg#fut#pass
+verbinfl.w_futptcp_mp3m#w_regular#hsomenw<isub>#masc#dat#sg#fut#pass
 verbinfl.w_futptcp_mp4m#w_regular#hsomenon#masc#acc#sg#fut#pass
 verbinfl.w_futptcp_mp5m#w_regular#hsomene#masc#voc#sg#fut#pass
 
@@ -154,7 +154,7 @@ verbinfl.w_futptcp_mp15m#w_regular#hsomenoi#masc#voc#pl#fut#pass
 
 verbinfl.w_futptcp_mp1m#w_regular#hsomenh#fem#nom#sg#fut#pass
 verbinfl.w_futptcp_mp2m#w_regular#hsomenhs#fem#gen#sg#fut#pass
-verbinfl.w_futptcp_mp3m#w_regular#hsomenh|#fem#dat#sg#fut#pass
+verbinfl.w_futptcp_mp3m#w_regular#hsomenh<isub>#fem#dat#sg#fut#pass
 verbinfl.w_futptcp_mp4m#w_regular#hsomenhn#fem#acc#sg#fut#pass
 verbinfl.w_futptcp_mp5m#w_regular#hsomenh#fem#voc#sg#fut#pass
 
@@ -175,7 +175,7 @@ verbinfl.w_futptcp_mp15m#w_regular#hsomenai#fem#voc#pl#fut#pass
 
 verbinfl.w_futptcp_mp1n#w_regular#hsomenon#neut#nom#sg#fut#pass
 verbinfl.w_futptcp_mp2n#w_regular#hsomenou#neut#gen#sg#fut#pass
-verbinfl.w_futptcp_mp3n#w_regular#hsomenw|#neut#dat#sg#fut#pass
+verbinfl.w_futptcp_mp3n#w_regular#hsomenw<isub>#neut#dat#sg#fut#pass
 verbinfl.w_futptcp_mp4n#w_regular#hsomenon#neut#acc#sg#fut#pass
 verbinfl.w_futptcp_mp5n#w_regular#hsomenon#neut#voc#sg#fut#pass
 

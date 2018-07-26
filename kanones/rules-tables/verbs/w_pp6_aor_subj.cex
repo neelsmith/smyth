@@ -1,7 +1,7 @@
 RuleUrn#InflectionClasses#Ending#Person#Number#Tense#Mood#Voice
 verbinfl.w_pp6_aor_subj17#w_pp6#w<circ>#1st#sg#aor#subj#pass
-verbinfl.w_pp6_aor_subj18#w_pp6#h<circ>|s#2nd#sg#aor#subj#pass
-verbinfl.w_pp6_aor_subj19#w_pp6#h<circ>|#3rd#sg#aor#subj#pass
+verbinfl.w_pp6_aor_subj18#w_pp6#h<circ><isub>s#2nd#sg#aor#subj#pass
+verbinfl.w_pp6_aor_subj19#w_pp6#h<circ><isub>#3rd#sg#aor#subj#pass
 
 verbinfl.w_pp6_aor_subj20#w_pp6#h<circ>ton#2nd#dual#aor#subj#pass
 verbinfl.w_pp6_aor_subj21#w_pp6#h<circ>ton#3rd#dual#aor#subj#pass

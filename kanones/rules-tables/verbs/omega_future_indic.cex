@@ -58,10 +58,10 @@ verbinfl.w_fut_indic10c#aw#ei#2nd#sg#fut#indic#mid
 verbinfl.w_fut_indic10d#ew#ei#2nd#sg#fut#indic#mid
 verbinfl.w_fut_indic10e#ow#ei#2nd#sg#fut#indic#mid
 
-verbinfl.w_fut_indic10h#w_regular#h|#2nd#sg#fut#indic#mid
-verbinfl.w_fut_indic10ch#aw#h|#2nd#sg#fut#indic#mid
-verbinfl.w_fut_indic10dh#ew#h|#2nd#sg#fut#indic#mid
-verbinfl.w_fut_indic10eh#ow#h|#2nd#sg#fut#indic#mid
+verbinfl.w_fut_indic10h#w_regular#h<isub>#2nd#sg#fut#indic#mid
+verbinfl.w_fut_indic10ch#aw#h<isub>#2nd#sg#fut#indic#mid
+verbinfl.w_fut_indic10dh#ew#h<isub>#2nd#sg#fut#indic#mid
+verbinfl.w_fut_indic10eh#ow#h<isub>#2nd#sg#fut#indic#mid
 
 
 verbinfl.w_fut_indic11#w_regular#etai#3rd#sg#fut#indic#mid
@@ -109,10 +109,10 @@ verbinfl.w_fut_indic18c#aw#ou#hsei#sg#fut#indic#pass
 verbinfl.w_fut_indic18d#ew#ou#hsei#sg#fut#indic#pass
 verbinfl.w_fut_indic18e#ow#ou#hsei#sg#fut#indic#pass
 
-verbinfl.w_fut_indic18h#w_regular#hsh|#2nd#sg#fut#indic#pass
-verbinfl.w_fut_indic18ch#aw#ou#hsh|#sg#fut#indic#pass
-verbinfl.w_fut_indic18dh#ew#ou#hsh|#sg#fut#indic#pass
-verbinfl.w_fut_indic18eh#ow#ou#hsh|#sg#fut#indic#pass
+verbinfl.w_fut_indic18h#w_regular#hsh<isub>#2nd#sg#fut#indic#pass
+verbinfl.w_fut_indic18ch#aw#ou#hsh<isub>#sg#fut#indic#pass
+verbinfl.w_fut_indic18dh#ew#ou#hsh<isub>#sg#fut#indic#pass
+verbinfl.w_fut_indic18eh#ow#ou#hsh<isub>#sg#fut#indic#pass
 
 
 verbinfl.w_fut_indic19#w_regular#hsetai#3rd#sg#fut#indic#pass

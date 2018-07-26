@@ -11,7 +11,7 @@ verbinfl.ew_pres_indic8n#ew_contract#ou<circ>sin#3rd#pl#pres#indic#act
 
 verbinfl.ew_pres_indic9#ew_contract#ou<circ>mai#1st#sg#pres#indic#mid
 verbinfl.ew_pres_indic10#ew_contract#ei<circ>#2nd#sg#pres#indic#mid
-verbinfl.ew_pres_indic10h#ew_contract#h<circ>|#2nd#sg#pres#indic#mid
+verbinfl.ew_pres_indic10h#ew_contract#h<circ><isub>#2nd#sg#pres#indic#mid
 verbinfl.ew_pres_indic11#ew_contract#ei<circ>tai#3rd#sg#pres#indic#mid
 verbinfl.ew_pres_indic12#ew_contract#ei<circ>sqon#2nd#dual#pres#indic#mid
 verbinfl.ew_pres_indic13#ew_contract#ei<circ>sqon#3rd#dual#pres#indic#mid
@@ -21,7 +21,7 @@ verbinfl.ew_pres_indic16#ew_contract#ou<circ>ntai#3rd#pl#pres#indic#mid
 
 verbinfl.ew_pres_indic17#ew_contract#ou<circ>mai#1st#sg#pres#indic#pass
 verbinfl.ew_pres_indic18#ew_contract#ei<circ>#2nd#sg#pres#indic#pass
-verbinfl.ew_pres_indic18h#ew_contract#h<circ>|#2nd#sg#pres#indic#pass
+verbinfl.ew_pres_indic18h#ew_contract#h<circ><isub>#2nd#sg#pres#indic#pass
 verbinfl.ew_pres_indic19#ew_contract#ei<circ>tai#3rd#sg#pres#indic#pass
 verbinfl.ew_pres_indic20#ew_contract#ei<circ>sqon#2nd#dual#pres#indic#pass
 verbinfl.ew_pres_indic21#ew_contract#ei<circ>sqon#3rd#dual#pres#indic#pass

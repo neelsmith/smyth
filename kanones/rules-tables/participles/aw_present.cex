@@ -22,7 +22,7 @@ verbinfl.aw_pres_ptcp15m#aw_contract#w<circ>ntes#masc#voc#pl#pres#act
 
 verbinfl.aw_pres_ptcp1f#aw_contract#w<circ>sa^#fem#nom#sg#pres#act
 verbinfl.aw_pres_ptcp2f#aw_contract#w/shs#fem#gen#sg#pres#act
-verbinfl.aw_pres_ptcp3f#aw_contract#w/sh|#fem#dat#sg#pres#act
+verbinfl.aw_pres_ptcp3f#aw_contract#w/sh<isub>#fem#dat#sg#pres#act
 verbinfl.aw_pres_ptcp4f#aw_contract#w<circ>sa^n#fem#acc#sg#pres#act
 verbinfl.aw_pres_ptcp5f#aw_contract#w<circ>sa^#fem#voc#sg#pres#act
 

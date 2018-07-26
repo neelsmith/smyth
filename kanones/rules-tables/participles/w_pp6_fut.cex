@@ -1,7 +1,7 @@
 RuleUrn#InflectionClass#Ending#Gender#Case#Number#Tense#Voice
 verbinfl.w_pp6_futptcp_mp1m#w_pp6#hsomenos#masc#nom#sg#fut#pass
 verbinfl.w_pp6_futptcp_mp2m#w_pp6#hsomenou#masc#gen#sg#fut#pass
-verbinfl.w_pp6_futptcp_mp3m#w_pp6#hsomenw|#masc#dat#sg#fut#pass
+verbinfl.w_pp6_futptcp_mp3m#w_pp6#hsomenw<isub>#masc#dat#sg#fut#pass
 verbinfl.w_pp6_futptcp_mp4m#w_pp6#hsomenon#masc#acc#sg#fut#pass
 verbinfl.w_pp6_futptcp_mp5m#w_pp6#hsomene#masc#voc#sg#fut#pass
 
@@ -23,7 +23,7 @@ verbinfl.w_pp6_futptcp_mp15m#w_pp6#hsomenoi#masc#voc#pl#fut#pass
 
 verbinfl.w_pp6_futptcp_mp1m#w_pp6#hsomenh#fem#nom#sg#fut#pass
 verbinfl.w_pp6_futptcp_mp2m#w_pp6#hsomenhs#fem#gen#sg#fut#pass
-verbinfl.w_pp6_futptcp_mp3m#w_pp6#hsomenh|#fem#dat#sg#fut#pass
+verbinfl.w_pp6_futptcp_mp3m#w_pp6#hsomenh<isub>#fem#dat#sg#fut#pass
 verbinfl.w_pp6_futptcp_mp4m#w_pp6#hsomenhn#fem#acc#sg#fut#pass
 verbinfl.w_pp6_futptcp_mp5m#w_pp6#hsomenh#fem#voc#sg#fut#pass
 
@@ -44,7 +44,7 @@ verbinfl.w_pp6_futptcp_mp15m#w_pp6#hsomenai#fem#voc#pl#fut#pass
 
 verbinfl.w_pp6_futptcp_mp1n#w_pp6#hsomenon#neut#nom#sg#fut#pass
 verbinfl.w_pp6_futptcp_mp2n#w_pp6#hsomenou#neut#gen#sg#fut#pass
-verbinfl.w_pp6_futptcp_mp3n#w_pp6#hsomenw|#neut#dat#sg#fut#pass
+verbinfl.w_pp6_futptcp_mp3n#w_pp6#hsomenw<isub>#neut#dat#sg#fut#pass
 verbinfl.w_pp6_futptcp_mp4n#w_pp6#hsomenon#neut#acc#sg#fut#pass
 verbinfl.w_pp6_futptcp_mp5n#w_pp6#hsomenon#neut#voc#sg#fut#pass
 

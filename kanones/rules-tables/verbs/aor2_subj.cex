@@ -1,7 +1,7 @@
 RuleUrn#InflectionClasses#Ending#Person#Number#Tense#Mood#Voice
 verbinfl.aor2_subj1#aor2#w#1st#sg#aor#subj#act
-verbinfl.aor2_subj2#aor2#h|s#2nd#sg#aor#subj#act
-verbinfl.aor2_subj3#aor2#h|#3rd#sg#aor#subj#act
+verbinfl.aor2_subj2#aor2#h<isub>s#2nd#sg#aor#subj#act
+verbinfl.aor2_subj3#aor2#h<isub>#3rd#sg#aor#subj#act
 
 verbinfl.aor2_subj4#aor2#hton#2nd#dual#aor#subj#act
 verbinfl.aor2_subj5#aor2#hton#3rd#dual#aor#subj#act
@@ -12,7 +12,7 @@ verbinfl.aor2_subj8#aor2#wsi#3rd#pl#aor#subj#act
 verbinfl.aor2_subj8n#aor2#wsin#3rd#pl#aor#subj#act
 
 verbinfl.aor2_subj9#aor2#wmai#1st#sg#aor#subj#mid
-verbinfl.aor2_subj10#aor2#h|#2nd#sg#aor#subj#mid
+verbinfl.aor2_subj10#aor2#h<isub>#2nd#sg#aor#subj#mid
 verbinfl.aor2_subj11#aor2#htai#3rd#sg#aor#subj#mid
 
 verbinfl.aor2_subj12#aor2#hsqon#2nd#dual#aor#subj#mid
@@ -24,7 +24,7 @@ verbinfl.aor2_subj16#aor2#wntai#3rd#pl#aor#subj#mid
 
 
 verbinfl.aor2_subj17#aor6#wmai#1st#sg#aor#subj#pass
-verbinfl.aor2_subj18#aor6#h|#2nd#sg#aor#subj#pass
+verbinfl.aor2_subj18#aor6#h<isub>#2nd#sg#aor#subj#pass
 verbinfl.aor2_subj19#aor6#htai#3rd#sg#aor#subj#pass
 
 verbinfl.aor2_subj20#aor6#hsqon#2nd#dual#aor#subj#pass

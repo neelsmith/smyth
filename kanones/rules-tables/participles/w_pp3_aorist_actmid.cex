@@ -22,7 +22,7 @@ verbinfl.w_pp3_aor_ptcp15m#w_pp3#antes#masc#voc#pl#aor#act
 
 verbinfl.w_pp3_aor_ptcp1f#w_pp3#a_sa^#fem#nom#sg#aor#act
 verbinfl.w_pp3_aor_ptcp2f#w_pp3#a_shs#fem#gen#sg#aor#act
-verbinfl.w_pp3_aor_ptcp3f#w_pp3#a_sh|#fem#dat#sg#aor#act
+verbinfl.w_pp3_aor_ptcp3f#w_pp3#a_sh<isub>#fem#dat#sg#aor#act
 verbinfl.w_pp3_aor_ptcp4f#w_pp3#a_sa^n#fem#acc#sg#aor#act
 verbinfl.w_pp3_aor_ptcp5f#w_pp3#a_sa^#fem#voc#sg#aor#act
 
@@ -64,7 +64,7 @@ verbinfl.w_pp3_aor_ptcp15n#w_pp3#anta#neut#voc#pl#aor#act
 
 verbinfl.w_pp3_aorptcp_mp1m#w_pp3#amenos#masc#nom#sg#aor#mid
 verbinfl.w_pp3_aorptcp_mp2m#w_pp3#amenou#masc#gen#sg#aor#mid
-verbinfl.w_pp3_aorptcp_mp3m#w_pp3#amenw|#masc#dat#sg#aor#mid
+verbinfl.w_pp3_aorptcp_mp3m#w_pp3#amenw<isub>#masc#dat#sg#aor#mid
 verbinfl.w_pp3_aorptcp_mp4m#w_pp3#amenon#masc#acc#sg#aor#mid
 verbinfl.w_pp3_aorptcp_mp5m#w_pp3#amene#masc#voc#sg#aor#mid
 
@@ -86,7 +86,7 @@ verbinfl.w_pp3_aorptcp_mp15m#w_pp3#amenoi#masc#voc#pl#aor#mid
 
 verbinfl.w_pp3_aorptcp_mp1m#w_pp3#amenh#fem#nom#sg#aor#mid
 verbinfl.w_pp3_aorptcp_mp2m#w_pp3#amenhs#fem#gen#sg#aor#mid
-verbinfl.w_pp3_aorptcp_mp3m#w_pp3#amenh|#fem#dat#sg#aor#mid
+verbinfl.w_pp3_aorptcp_mp3m#w_pp3#amenh<isub>#fem#dat#sg#aor#mid
 verbinfl.w_pp3_aorptcp_mp4m#w_pp3#amena_n#fem#acc#sg#aor#mid
 verbinfl.w_pp3_aorptcp_mp5m#w_pp3#amenh#fem#voc#sg#aor#mid
 
@@ -105,7 +105,7 @@ verbinfl.w_pp3_aorptcp_mp15m#w_pp3#amenai#fem#voc#pl#aor#mid
 
 verbinfl.w_pp3_aorptcp_mp1n#w_pp3#amenon#neut#nom#sg#aor#mid
 verbinfl.w_pp3_aorptcp_mp2n#w_pp3#amenou#neut#gen#sg#aor#mid
-verbinfl.w_pp3_aorptcp_mp3n#w_pp3#amenw|#neut#dat#sg#aor#mid
+verbinfl.w_pp3_aorptcp_mp3n#w_pp3#amenw<isub>#neut#dat#sg#aor#mid
 verbinfl.w_pp3_aorptcp_mp4n#w_pp3#amenon#neut#acc#sg#aor#mid
 verbinfl.w_pp3_aorptcp_mp5n#w_pp3#amenon#neut#voc#sg#aor#mid
 

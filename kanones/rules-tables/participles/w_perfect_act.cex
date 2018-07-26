@@ -24,7 +24,7 @@ verbinfl.w_pp4_pftptcp_m4p#w_pp4#o/tes#masc#voc#pl#pft#act
 
 verbinfl.w_pp4_pftptcp_f0s#w_pp4#ui<circ>a#fem#nom#sg#pft#act
 verbinfl.w_pp4_pftptcp_f1s#w_pp4#ui/as#fem#gen#sg#pft#act
-verbinfl.w_pp4_pftptcp_f2s#w_pp4#ui/a|#fem#dat#sg#pft#act
+verbinfl.w_pp4_pftptcp_f2s#w_pp4#ui/a<isub>#fem#dat#sg#pft#act
 verbinfl.w_pp4_pftptcp_f3s#w_pp4#ui<circ>an#fem#acc#sg#pft#act
 verbinfl.w_pp4_pftptcp_f4s#w_pp4#ui<circ>a#fem#voc#sg#pft#act
 

@@ -23,7 +23,7 @@ verbinfl.w_pp6_aor_passpt15m#w_pp6#e/ntes#masc#voc#pl#aor#pass
 
 verbinfl.w_pp6_aor_passpt1f#w_pp6#ei<circ>sa#fem#nom#sg#aor#pass
 verbinfl.w_pp6_aor_passpt2f#w_pp6#ei/shs#fem#gen#sg#aor#pass
-verbinfl.w_pp6_aor_passpt3f#w_pp6#ei/sh|#fem#dat#sg#aor#pass
+verbinfl.w_pp6_aor_passpt3f#w_pp6#ei/sh<isub>#fem#dat#sg#aor#pass
 verbinfl.w_pp6_aor_passpt4f#w_pp6#ei<circ>san#fem#acc#sg#aor#pass
 verbinfl.w_pp6_aor_passpt5f#w_pp6#ei<circ>sa#fem#voc#sg#aor#pass
 
