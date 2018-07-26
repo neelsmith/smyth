@@ -1,7 +1,7 @@
 RuleUrn#InflectionClasses#Ending#Gender#Case#Number
 nouninfl.os_ou1m#os_ou#os#masc#nom#sg
 nouninfl.os_ou2m#os_ou#ou#masc#gen#sg
-nouninfl.os_ou3m#os_ou#w|#masc#dat#sg
+nouninfl.os_ou3m#os_ou#w<isub>#masc#dat#sg
 nouninfl.os_ou4m#os_ou#on#masc#acc#sg
 nouninfl.os_ou5m#os_ou#e#masc#voc#sg
 
