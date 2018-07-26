@@ -33,20 +33,20 @@ verbinfl.w_aor_opt18#w_regular#eihs#2nd#sg#aor#opt#pass
 verbinfl.w_aor_opt19#w_regular#eih#3rd#sg#aor#opt#pass
 
 verbinfl.w_aor_opt20#w_regular#eihton#2nd#dual#aor#opt#pass
-verbinfl.w_aor_opt20c#w_regular#ei=ton#2nd#dual#aor#opt#pass
+verbinfl.w_aor_opt20c#w_regular#ei<circ>ton#2nd#dual#aor#opt#pass
 
-verbinfl.w_aor_opt21#w_regular#ei=thn#3rd#dual#aor#opt#pass
+verbinfl.w_aor_opt21#w_regular#ei<circ>thn#3rd#dual#aor#opt#pass
 verbinfl.w_aor_opt21c#w_regular#eihthn#3rd#dual#aor#opt#pass
 
 
 
 
-verbinfl.w_aor_opt22#w_regular#ei=men#1st#pl#aor#opt#pass
+verbinfl.w_aor_opt22#w_regular#ei<circ>men#1st#pl#aor#opt#pass
 verbinfl.w_aor_opt22c#w_regular#eihmen#1st#pl#aor#opt#pass
 
 
-verbinfl.w_aor_opt23#w_regular#ei=te#2nd#pl#aor#opt#pass
+verbinfl.w_aor_opt23#w_regular#ei<circ>te#2nd#pl#aor#opt#pass
 verbinfl.w_aor_opt23c#w_regular#eihte#2nd#pl#aor#opt#pass
 
-verbinfl.w_aor_opt24#w_regular#ei=en#3rd#pl#aor#opt#pass
+verbinfl.w_aor_opt24#w_regular#ei<circ>en#3rd#pl#aor#opt#pass
 verbinfl.w_aor_opt24#w_regular#eihsan#3rd#pl#aor#opt#pass

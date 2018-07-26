@@ -1,7 +1,7 @@
 RuleUrn#InflectionClasses#Ending#Gender#Case#Number#Degree
 adjinfl.os_h_on1#os_h_on#os#masc#nom#sg#pos
 adjinfl.os_h_on2#os_h_on#ou#masc#gen#sg#pos
-adjinfl.os_h_on3#os_h_on#w|#masc#dat#sg#pos
+adjinfl.os_h_on3#os_h_on#w<isub>#masc#dat#sg#pos
 adjinfl.os_h_on4#os_h_on#on#masc#acc#sg#pos
 adjinfl.os_h_on5#os_h_on#e#masc#voc#sg#pos
 
@@ -24,7 +24,7 @@ adjinfl.os_h_on15#os_h_on#oi#masc#voc#pl#pos
 
 adjinfl.os_h_on16#os_h_on#h#fem#nom#sg#pos
 adjinfl.os_h_on17#os_h_on#hs#fem#gen#sg#pos
-adjinfl.os_h_on18#os_h_on#h|#fem#dat#sg#pos
+adjinfl.os_h_on18#os_h_on#h<isub>#fem#dat#sg#pos
 adjinfl.os_h_on19#os_h_on#hn#fem#acc#sg#pos
 adjinfl.os_h_on20#os_h_on#h#fem#voc#sg#pos
 
@@ -46,7 +46,7 @@ adjinfl.os_h_on30#os_h_on#ai#fem#voc#pl#pos
 
 adjinfl.os_h_on31#os_h_on#on#neut#nom#sg#pos
 adjinfl.os_h_on32#os_h_on#ou#neut#gen#sg#pos
-adjinfl.os_h_on33#os_h_on#w|#neut#dat#sg#pos
+adjinfl.os_h_on33#os_h_on#w<isub>#neut#dat#sg#pos
 adjinfl.os_h_on34#os_h_on#on#neut#acc#sg#pos
 adjinfl.os_h_on35#os_h_on#on#neut#voc#sg#pos
 

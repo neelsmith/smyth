@@ -25,12 +25,12 @@ verbinfl.w_pp3_aor_opt7b#w_pp3#eihn#1st#sg#aor#opt#pass
 verbinfl.w_pp3_aor_opt17b#w_pp3#eihs#2nd#sg#aor#opt#pass
 verbinfl.w_pp3_aor_opt19b#w_pp3#eih#3rd#sg#aor#opt#pass
 verbinfl.w_pp3_aor_opt20b#w_pp3#eihton#2nd#dual#aor#opt#pass
-verbinfl.w_pp3_aor_opt20d#w_pp3#ei=ton#2nd#dual#aor#opt#pass
-verbinfl.w_pp3_aor_opt21b#w_pp3#ei=thn#3rd#dual#aor#opt#pass
+verbinfl.w_pp3_aor_opt20d#w_pp3#ei<circ>ton#2nd#dual#aor#opt#pass
+verbinfl.w_pp3_aor_opt21b#w_pp3#ei<circ>thn#3rd#dual#aor#opt#pass
 verbinfl.w_pp3_aor_opt21d#w_pp3#eihthn#3rd#dual#aor#opt#pass
-verbinfl.w_pp3_aor_opt22b#w_pp3#ei=men#1st#pl#aor#opt#pass
+verbinfl.w_pp3_aor_opt22b#w_pp3#ei<circ>men#1st#pl#aor#opt#pass
 verbinfl.w_pp3_aor_opt22d#w_pp3#eihmen#1st#pl#aor#opt#pass
-verbinfl.w_pp3_aor_opt23b#w_pp3#ei=te#2nd#pl#aor#opt#pass
+verbinfl.w_pp3_aor_opt23b#w_pp3#ei<circ>te#2nd#pl#aor#opt#pass
 verbinfl.w_pp3_aor_opt23d#w_pp3#eihte#2nd#pl#aor#opt#pass
-verbinfl.w_pp3_aor_opt24b#w_pp3#ei=en#3rd#pl#aor#opt#pass
+verbinfl.w_pp3_aor_opt24b#w_pp3#ei<circ>en#3rd#pl#aor#opt#pass
 verbinfl.w_pp3_aor_opt24b#w_pp3#eihsan#3rd#pl#aor#opt#pass

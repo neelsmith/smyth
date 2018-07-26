@@ -21,7 +21,7 @@ nouninfl.os_ou15m#os_ou#w#masc#voc#dual
 
 nouninfl.os_ou1f#os_ou#os#fem#nom#sg
 nouninfl.os_ou2f#os_ou#ou#fem#gen#sg
-nouninfl.os_ou3f#os_ou#w|#fem#dat#sg
+nouninfl.os_ou3f#os_ou#w<isub>#fem#dat#sg
 nouninfl.os_ou4f#os_ou#on#fem#acc#sg
 nouninfl.os_ou5f#os_ou#e#fem#voc#sg
 
@@ -42,7 +42,7 @@ nouninfl.os_ou15f#os_ou#w#fem#voc#dual
 
 nouninfl.os_ou1n#os_ou#on#neut#nom#sg
 nouninfl.os_ou2n#os_ou#ou#neut#gen#sg
-nouninfl.os_ou3n#os_ou#w|#neut#dat#sg
+nouninfl.os_ou3n#os_ou#w<isub>#neut#dat#sg
 nouninfl.os_ou4n#os_ou#on#neut#acc#sg
 nouninfl.os_ou5n#os_ou#on#neut#voc#sg
 

@@ -33,7 +33,7 @@ verbinfl.w_aor_ptcp9f#w_regular#a_sa_#fem#acc#dual#aor#act
 verbinfl.w_aor_ptcp10f#w_regular#a_sa_#fem#voc#dual#aor#act
 
 verbinfl.w_aor_ptcp11f#w_regular#a_sai#fem#nom#pl#aor#act
-verbinfl.w_aor_ptcp12f#w_regular#a_sw=n#fem#gen#pl#aor#act
+verbinfl.w_aor_ptcp12f#w_regular#a_sw<circ>n#fem#gen#pl#aor#act
 verbinfl.w_aor_ptcp13f#w_regular#a_sais#fem#dat#pl#aor#act
 verbinfl.w_aor_ptcp14f#w_regular#a_sa_s#fem#acc#pl#aor#act
 verbinfl.w_aor_ptcp15f#w_regular#a_sai#fem#voc#pl#aor#act

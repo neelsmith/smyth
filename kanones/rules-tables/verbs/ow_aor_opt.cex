@@ -31,20 +31,20 @@ verbinfl.ew_aor_opt18#ew_contract#eihs#2nd#sg#aor#opt#pass
 verbinfl.ew_aor_opt19#ew_contract#eih#3rd#sg#aor#opt#pass
 
 verbinfl.ew_aor_opt20#ew_contract#eihton#2nd#dual#aor#opt#pass
-verbinfl.ew_aor_opt20c#ew_contract#ei=ton#2nd#dual#aor#opt#pass
+verbinfl.ew_aor_opt20c#ew_contract#ei<circ>ton#2nd#dual#aor#opt#pass
 
-verbinfl.ew_aor_opt21#ew_contract#ei=thn#3rd#dual#aor#opt#pass
+verbinfl.ew_aor_opt21#ew_contract#ei<circ>thn#3rd#dual#aor#opt#pass
 verbinfl.ew_aor_opt21c#ew_contract#eihthn#3rd#dual#aor#opt#pass
 
 
 
 
-verbinfl.ew_aor_opt22#ew_contract#ei=men#1st#pl#aor#opt#pass
+verbinfl.ew_aor_opt22#ew_contract#ei<circ>men#1st#pl#aor#opt#pass
 verbinfl.ew_aor_opt22c#ew_contract#eihmen#1st#pl#aor#opt#pass
 
 
-verbinfl.ew_aor_opt23#ew_contract#ei=te#2nd#pl#aor#opt#pass
+verbinfl.ew_aor_opt23#ew_contract#ei<circ>te#2nd#pl#aor#opt#pass
 verbinfl.ew_aor_opt23c#ew_contract#eihte#2nd#pl#aor#opt#pass
 
-verbinfl.ew_aor_opt24#ew_contract#ei=en#3rd#pl#aor#opt#pass
+verbinfl.ew_aor_opt24#ew_contract#ei<circ>en#3rd#pl#aor#opt#pass
 verbinfl.ew_aor_opt24#ew_contract#eihsan#3rd#pl#aor#opt#pass

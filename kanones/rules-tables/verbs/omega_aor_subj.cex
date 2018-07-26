@@ -23,13 +23,13 @@ verbinfl.w_aor_subj15#w_regular#hsqe#2nd#pl#aor#subj#mid
 verbinfl.w_aor_subj16#w_regular#wntai#3rd#pl#aor#subj#mid
 
 
-verbinfl.w_aor_subj17#w_regular#w=#1st#sg#aor#subj#pass
-verbinfl.w_aor_subj18#w_regular#h=|s#2nd#sg#aor#subj#pass
-verbinfl.w_aor_subj19#w_regular#h=|#3rd#sg#aor#subj#pass
+verbinfl.w_aor_subj17#w_regular#w<circ>#1st#sg#aor#subj#pass
+verbinfl.w_aor_subj18#w_regular#h<circ>|s#2nd#sg#aor#subj#pass
+verbinfl.w_aor_subj19#w_regular#h<circ>|#3rd#sg#aor#subj#pass
 
-verbinfl.w_aor_subj20#w_regular#h=ton#2nd#dual#aor#subj#pass
-verbinfl.w_aor_subj21#w_regular#h=ton#3rd#dual#aor#subj#pass
+verbinfl.w_aor_subj20#w_regular#h<circ>ton#2nd#dual#aor#subj#pass
+verbinfl.w_aor_subj21#w_regular#h<circ>ton#3rd#dual#aor#subj#pass
 
-verbinfl.w_aor_subj22#w_regular#w=men#1st#pl#aor#subj#pass
-verbinfl.w_aor_subj23#w_regular#h=te#2nd#pl#aor#subj#pass
-verbinfl.w_aor_subj24#w_regular#w=si#3rd#pl#aor#subj#pass
+verbinfl.w_aor_subj22#w_regular#w<circ>men#1st#pl#aor#subj#pass
+verbinfl.w_aor_subj23#w_regular#h<circ>te#2nd#pl#aor#subj#pass
+verbinfl.w_aor_subj24#w_regular#w<circ>si#3rd#pl#aor#subj#pass

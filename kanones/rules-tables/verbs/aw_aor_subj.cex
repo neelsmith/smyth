@@ -23,13 +23,13 @@ verbinfl.aw_aor_subj15#aw_contract#hsqe#2nd#pl#aor#subj#mid
 verbinfl.aw_aor_subj16#aw_contract#wntai#3rd#pl#aor#subj#mid
 
 
-verbinfl.aw_aor_subj17#aw_contract#w=#1st#sg#aor#subj#pass
-verbinfl.aw_aor_subj18#aw_contract#h=|s#2nd#sg#aor#subj#pass
-verbinfl.aw_aor_subj19#aw_contract#h=|#3rd#sg#aor#subj#pass
+verbinfl.aw_aor_subj17#aw_contract#w<circ>#1st#sg#aor#subj#pass
+verbinfl.aw_aor_subj18#aw_contract#h<circ>|s#2nd#sg#aor#subj#pass
+verbinfl.aw_aor_subj19#aw_contract#h<circ>|#3rd#sg#aor#subj#pass
 
-verbinfl.aw_aor_subj20#aw_contract#h=ton#2nd#dual#aor#subj#pass
-verbinfl.aw_aor_subj21#aw_contract#h=ton#3rd#dual#aor#subj#pass
+verbinfl.aw_aor_subj20#aw_contract#h<circ>ton#2nd#dual#aor#subj#pass
+verbinfl.aw_aor_subj21#aw_contract#h<circ>ton#3rd#dual#aor#subj#pass
 
-verbinfl.aw_aor_subj22#aw_contract#w=men#1st#pl#aor#subj#pass
-verbinfl.aw_aor_subj23#aw_contract#h=te#2nd#pl#aor#subj#pass
-verbinfl.aw_aor_subj24#aw_contract#w=si#3rd#pl#aor#subj#pass
+verbinfl.aw_aor_subj22#aw_contract#w<circ>men#1st#pl#aor#subj#pass
+verbinfl.aw_aor_subj23#aw_contract#h<circ>te#2nd#pl#aor#subj#pass
+verbinfl.aw_aor_subj24#aw_contract#w<circ>si#3rd#pl#aor#subj#pass

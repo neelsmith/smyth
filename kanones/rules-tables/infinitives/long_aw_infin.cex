@@ -1,7 +1,7 @@
 RuleUrn#InflectionClass#Ending#Tense#Voice
-verbinfl.long_awinfin1#long_awcontract#a=n#pres#act
-verbinfl.long_awinfin2#long_awcontract#ei=sqai#pres#mid
-verbinfl.long_awinfin3#long_awcontract#ei=sqai#pres#pass
+verbinfl.long_awinfin1#long_awcontract#a<circ>n#pres#act
+verbinfl.long_awinfin2#long_awcontract#ei<circ>sqai#pres#mid
+verbinfl.long_awinfin3#long_awcontract#ei<circ>sqai#pres#pass
 
 
 verbinfl.long_awinfin4#long_awcontract#ein#fut#act
@@ -10,7 +10,7 @@ verbinfl.long_awinfin6#long_awcontract#hsesqai#fut#pass
 
 verbinfl.long_awinfin7#long_awcontract#ai#aor#act
 verbinfl.long_awinfin8#long_awcontract#asqai#aor#mid
-verbinfl.long_awinfin9#long_awcontract#h=nai#aor#pass
+verbinfl.long_awinfin9#long_awcontract#h<circ>nai#aor#pass
 
 
 verbinfl.long_awinfin10#long_awcontract#e/nai#pft#act

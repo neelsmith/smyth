@@ -13,19 +13,19 @@ verbinfl.w_pp6_aor_passpt10m#w_pp6#e/nte#masc#voc#dual#aor#pass
 
 verbinfl.w_pp6_aor_passpt11m#w_pp6#e/ntes#masc#nom#pl#aor#pass
 verbinfl.w_pp6_aor_passpt12m#w_pp6#e/ntwn#masc#gen#pl#aor#pass
-verbinfl.w_pp6_aor_passpt13m#w_pp6#ei=si#masc#dat#pl#aor#pass
-verbinfl.w_pp6_aor_passpt13mn#w_pp6#ei=sin#masc#dat#pl#aor#pass
+verbinfl.w_pp6_aor_passpt13m#w_pp6#ei<circ>si#masc#dat#pl#aor#pass
+verbinfl.w_pp6_aor_passpt13mn#w_pp6#ei<circ>sin#masc#dat#pl#aor#pass
 verbinfl.w_pp6_aor_passpt14m#w_pp6#e/ntas#masc#acc#pl#aor#pass
 verbinfl.w_pp6_aor_passpt15m#w_pp6#e/ntes#masc#voc#pl#aor#pass
 
 
 
 
-verbinfl.w_pp6_aor_passpt1f#w_pp6#ei=sa#fem#nom#sg#aor#pass
+verbinfl.w_pp6_aor_passpt1f#w_pp6#ei<circ>sa#fem#nom#sg#aor#pass
 verbinfl.w_pp6_aor_passpt2f#w_pp6#ei/shs#fem#gen#sg#aor#pass
 verbinfl.w_pp6_aor_passpt3f#w_pp6#ei/sh|#fem#dat#sg#aor#pass
-verbinfl.w_pp6_aor_passpt4f#w_pp6#ei=san#fem#acc#sg#aor#pass
-verbinfl.w_pp6_aor_passpt5f#w_pp6#ei=sa#fem#voc#sg#aor#pass
+verbinfl.w_pp6_aor_passpt4f#w_pp6#ei<circ>san#fem#acc#sg#aor#pass
+verbinfl.w_pp6_aor_passpt5f#w_pp6#ei<circ>sa#fem#voc#sg#aor#pass
 
 verbinfl.w_pp6_aor_passpt6f#w_pp6#ei/sa#fem#nom#dual#aor#pass
 verbinfl.w_pp6_aor_passpt7f#w_pp6#ei/sain#fem#gen#dual#aor#pass
@@ -33,11 +33,11 @@ verbinfl.w_pp6_aor_passpt8f#w_pp6#ei/sain#fem#dat#dual#aor#pass
 verbinfl.w_pp6_aor_passpt9f#w_pp6#ei/sa#fem#acc#dual#aor#pass
 verbinfl.w_pp6_aor_passpt10f#w_pp6#ei/sa#fem#voc#dual#aor#pass
 
-verbinfl.w_pp6_aor_passpt11f#w_pp6#ei=sai#fem#nom#pl#aor#pass
-verbinfl.w_pp6_aor_passpt12f#w_pp6#eisw=n#fem#gen#pl#aor#pass
+verbinfl.w_pp6_aor_passpt11f#w_pp6#ei<circ>sai#fem#nom#pl#aor#pass
+verbinfl.w_pp6_aor_passpt12f#w_pp6#eisw<circ>n#fem#gen#pl#aor#pass
 verbinfl.w_pp6_aor_passpt13f#w_pp6#ei/sais#fem#dat#pl#aor#pass
 verbinfl.w_pp6_aor_passpt14f#w_pp6#ei/sas#fem#acc#pl#aor#pass
-verbinfl.w_pp6_aor_passpt15f#w_pp6#ei=sai#fem#voc#pl#aor#pass
+verbinfl.w_pp6_aor_passpt15f#w_pp6#ei<circ>sai#fem#voc#pl#aor#pass
 
 
 
@@ -56,7 +56,7 @@ verbinfl.w_pp6_aor_passpt10n#w_pp6#e/nte#neut#voc#dual#aor#pass
 
 verbinfl.w_pp6_aor_passpt11n#w_pp6#e/nta#neut#nom#pl#aor#pass
 verbinfl.w_pp6_aor_passpt12n#w_pp6#e/ntwn#neut#gen#pl#aor#pass
-verbinfl.w_pp6_aor_passpt13n#w_pp6#ei=si#neut#dat#pl#aor#pass
-verbinfl.w_pp6_aor_passpt13mn#w_pp6#ei=sin#neut#dat#pl#aor#pass
+verbinfl.w_pp6_aor_passpt13n#w_pp6#ei<circ>si#neut#dat#pl#aor#pass
+verbinfl.w_pp6_aor_passpt13mn#w_pp6#ei<circ>sin#neut#dat#pl#aor#pass
 verbinfl.w_pp6_aor_passpt14n#w_pp6#e/nta#neut#acc#pl#aor#pass
 verbinfl.w_pp6_aor_passpt15n#w_pp6#e/nta#neut#voc#pl#aor#pass

@@ -33,7 +33,7 @@ verbinfl.w_pp2_fut_ptcp9f#w_pp2#ousa_#fem#acc#dual#fut#act
 verbinfl.w_pp2_fut_ptcp10f#w_pp2#ousa_#fem#voc#dual#fut#act
 
 verbinfl.w_pp2_fut_ptcp11f#w_pp2#ousai#fem#nom#pl#fut#act
-verbinfl.w_pp2_fut_ptcp12f#w_pp2#ousw=n#fem#gen#pl#fut#act
+verbinfl.w_pp2_fut_ptcp12f#w_pp2#ousw<circ>n#fem#gen#pl#fut#act
 verbinfl.w_pp2_fut_ptcp13f#w_pp2#ousais#fem#dat#pl#fut#act
 verbinfl.w_pp2_fut_ptcp14f#w_pp2#ousa_s#fem#acc#pl#fut#act
 verbinfl.w_pp2_fut_ptcp15f#w_pp2#ousai#fem#voc#pl#fut#act

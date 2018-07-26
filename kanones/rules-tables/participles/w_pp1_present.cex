@@ -33,7 +33,7 @@ verbinfl.w_pp1_pres_ptcp9f#w_pp1#ousa_#fem#acc#dual#pres#act
 verbinfl.w_pp1_pres_ptcp10f#w_pp1#ousa_#fem#voc#dual#pres#act
 
 verbinfl.w_pp1_pres_ptcp11f#w_pp1#ousai#fem#nom#pl#pres#act
-verbinfl.w_pp1_pres_ptcp12f#w_pp1#ousw=n#fem#gen#pl#pres#act
+verbinfl.w_pp1_pres_ptcp12f#w_pp1#ousw<circ>n#fem#gen#pl#pres#act
 verbinfl.w_pp1_pres_ptcp13f#w_pp1#ousais#fem#dat#pl#pres#act
 verbinfl.w_pp1_pres_ptcp14f#w_pp1#ousa_s#fem#acc#pl#pres#act
 verbinfl.w_pp1_pres_ptcp15f#w_pp1#ousai#fem#voc#pl#pres#act
